@@ -2,7 +2,7 @@
 
 This project is an instructional notebook for adversarial machine learning using the GTSRB dataset.
 
-The tasks listed in this notebook have been adapted from an assignment from the[CS 504: Adversarial Machine learning Course][course] offered at the University of Idaho.
+The tasks listed in this notebook have been adapted from an assignment from the [CS 504: Adversarial Machine learning Course][course] offered at the University of Idaho.
 
 The GTSRB dataset consists of:
 - 50,000 images
