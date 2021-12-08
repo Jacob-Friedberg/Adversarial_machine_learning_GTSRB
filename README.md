@@ -41,3 +41,5 @@ Please install the following. Note: Please check the revision date on each of th
 
 # Attention
 The dataset files are currently compressed using 7zip. Please uncompress the archives to their .P file format before use.
+
+You are free to use the code as you please
