@@ -13,7 +13,7 @@ The GTSRB dataset consists of:
 The raw dataset can be found at the [GTSRB benchmark][gtsrb] site. I provide a pickled version of this dataset in the GTSRB folder
 
 
-In this notebook we will be learning how to do 3 tasks with Tensorflow/Keras:
+In this notebook we will be learning how to do 4 tasks with Tensorflow/Keras:
 1. Train a deep learning model using transfer learning on the German Traffic Sign Recognition Dataset GTSRB data set.
 2. Implement 4 different white-box evasion attacks againts the model we trained, comparing their performances at different perturbation(ε) values
 3. Implement a targeted white-box evasion attack using one of the attacks we have already implemented.
